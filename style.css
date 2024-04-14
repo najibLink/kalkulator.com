@@ -58,7 +58,7 @@ form input.equal{
 
 @media (max-width: 450px){
     .container{
-        height: 50vh;
+        height: 50%;
         width: 50%;
         margin-left: 7rem;
     }
